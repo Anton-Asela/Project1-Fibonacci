@@ -1,11 +1,16 @@
 # Project1-Fibonacci
 
+Fibonacci Sequence Generator
+
+1,1,2,3,5,8,13 ...
+
+
 #lest see if this becomes visible as i type
 
 ## Transformation Priority Premise
 
 1. ### ({} → nil) no code at all → code that employs nil
-2. ### (nil → constant)
+2. ### (nil → constant) 
 3. ### (constant → constant+) a simple constant to a more complex constant
 4. ### (constant → scalar) replacing a constant with a variable or an argument
 5. ### (statement → statements) adding more unconditional statements.
